@@ -6,7 +6,7 @@ A simple RESTful API for managing e-commerce items (like Flipkart/Amazon).
 
 👉 GitHub Repository: https://github.com/mugunthanm2k/item-api.git
 
-👉 Live Demo: Not deployed yet
+👉 Live Demo: [Not deployed yet](https://item-api-production-0418.up.railway.app)
 
 ## Features
 - ✅ Add new items with input validation
@@ -93,7 +93,7 @@ A simple RESTful API for managing e-commerce items (like Flipkart/Amazon).
 Once deployed, test with:
 
 ```text
-POST https://your-app.railway.app/api/items
+POST [https://your-app.railway.app](https://item-api-production-0418.up.railway.app)/api/items
 {
   "name": "Samsung Galaxy S24",
   "description": "Latest Android flagship with AI features",
@@ -101,5 +101,5 @@ POST https://your-app.railway.app/api/items
   "category": "Mobile"
 }
 
-GET https://your-app.railway.app/api/items/1
+GET [https://your-app.railway.app](https://item-api-production-0418.up.railway.app)/api/items/1
 ```
