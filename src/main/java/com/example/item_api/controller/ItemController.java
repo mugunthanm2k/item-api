@@ -19,7 +19,7 @@ import com.example.item_api.service.ItemService;
 import jakarta.validation.Valid;
 
 @RestController
-@CrossOrigin(origins = "https://mugunthanm2k.github.io/item-api-frontend")
+@CrossOrigin(origins = "https://mugunthanm2k.github.io")
 @RequestMapping("api/items")
 @Validated
 public class ItemController {
